@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Creative History",
+    "description": "Learn about the time dinosaurs and humans co-existed, and how the moon landing was a well-orchestrated musical.",
+    "cost": 2000
+  },
+  {
+    "title": "Advanced Mathematics of the Imagination",
+    "description": "Where numbers are merely suggestions, and 2 + 2 can equal 5, for the right reasons.",
+    "cost": 2000
+  },
+  {
+    "title": "Literature of the Unreal",
+    "description": "Explore deep literary analysis of books that were never written by authors who never existed.",
+    "cost": 2000
+  },
+  {
+    "title": "Geography of the Unknown",
+    "description": "Discover new continents that can't be found on any map, and countries where the laws of physics don’t apply.",
+    "cost": 2000
+  },
+  {
+    "title": "Culinary Time Travel",
+    "description": "Cooking with Ingredients from Extinct Plants and Animals - Master the art of preparing dishes that can't be tasted, using ingredients that no longer exist.",
+    "cost": 4000
+  },
+  {
+    "title": "Physics of Magic",
+    "description": "Understanding Spells through Quantum Mechanics - Dive into how casting spells can alter reality, and why your broomstick isn't flying according to current physical laws.",
+    "cost": 20000
+  },
+  {
+    "title": "Economics of Fairy Tales",
+    "description": "Managing Wealth in Dragon Hoards and Magic Beans - Learn the intricate economics of kingdoms that thrive on cursed treasures and beanstalks leading to golden geese.",
+    "cost": 2000
+  },
+  {
+    "title": "Artificial Intelligence in Mythology",
+    "description": "Building Robots with Ancient Gods - Explore how to code consciousness into clay and breathe life into metal, following the blueprints of mythical creators.",
+    "cost": 2000
+  },
+  {
+    "title": "Alien Linguistics",
+    "description": "Communicating with Civilizations We Haven't Discovered Yet - Become fluent in languages spoken by beings from unexplored corners of the universe, using grammatical structures that defy human cognition.",
+    "cost": 2000
+  },
+  {
+    "title": "Historical Fashion for Time Travelers",
+    "description": "Dressing Appropriately for the Past and Future - A guide to blending in during your visits to ancient civilizations or futuristic societies, avoiding fashion faux pas across the centuries.",
+    "cost": 3000
+  },
+  {
+    "title": "Underwater Basket Weaving in Zero Gravity",
+    "description": "A Practical Guide - Perfect the ancient and highly respected art of basket weaving, adapted for space stations and undersea habitats where traditional rules don't apply.",
+    "cost": 12000
+  },
+  {
+    "title": "Philosophy of Parallel Universes",
+    "description": "Ethics and Existence in Infinite Realities - Debate the moral implications of actions in a world where every possibility is reality, and how to live knowing there's a version of you who made every possible choice.",
+    "cost": 2000
+  },
+  {
+    "title": "Cryptobotany",
+    "description": "Gardening with Imaginary Plants - Cultivate a green thumb for flora that photosynthesize moonlight, sing when thirsty, and grow in shapes dictated by abstract concepts.",
+    "cost": 21000
+  },
+  {
+    "title": "Archaeology of Fictional Civilizations",
+    "description": "Unearthing Cities from Lost Stories - Excavate ruins of grand cities described in tales told by civilizations that never were, analyzing artifacts of societies that exist only in the collective imagination.",
+    "cost": 24000
+  }
+]
