@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/fictional-private-tutors/static/css/main.f53dda3d.css",
-    "main.js": "/fictional-private-tutors/static/js/main.72e92e2a.js",
-    "static/js/453.6c6454fd.chunk.js": "/fictional-private-tutors/static/js/453.6c6454fd.chunk.js",
-    "index.html": "/fictional-private-tutors/index.html",
-    "main.f53dda3d.css.map": "/fictional-private-tutors/static/css/main.f53dda3d.css.map",
-    "main.72e92e2a.js.map": "/fictional-private-tutors/static/js/main.72e92e2a.js.map",
-    "453.6c6454fd.chunk.js.map": "/fictional-private-tutors/static/js/453.6c6454fd.chunk.js.map"
+    "main.css": "/fictionalPrivateTutors/static/css/main.f53dda3d.css",
+    "main.js": "/fictionalPrivateTutors/static/js/main.59e2504d.js",
+    "static/js/453.6c6454fd.chunk.js": "/fictionalPrivateTutors/static/js/453.6c6454fd.chunk.js",
+    "index.html": "/fictionalPrivateTutors/index.html",
+    "main.f53dda3d.css.map": "/fictionalPrivateTutors/static/css/main.f53dda3d.css.map",
+    "main.59e2504d.js.map": "/fictionalPrivateTutors/static/js/main.59e2504d.js.map",
+    "453.6c6454fd.chunk.js.map": "/fictionalPrivateTutors/static/js/453.6c6454fd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f53dda3d.css",
-    "static/js/main.72e92e2a.js"
+    "static/js/main.59e2504d.js"
   ]
 }
