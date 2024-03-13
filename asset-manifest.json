@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/fictionalPrivateTutors/static/css/main.f53dda3d.css",
-    "main.js": "/fictionalPrivateTutors/static/js/main.a67a6842.js",
+    "main.js": "/fictionalPrivateTutors/static/js/main.1342bca3.js",
     "static/js/453.6c6454fd.chunk.js": "/fictionalPrivateTutors/static/js/453.6c6454fd.chunk.js",
     "static/media/fake_info.jpg": "/fictionalPrivateTutors/static/media/fake_info.a3db15f133b2069ce494.jpg",
     "static/media/stationery.jpg": "/fictionalPrivateTutors/static/media/stationery.e28504ad51ef6e3712ad.jpg",
     "index.html": "/fictionalPrivateTutors/index.html",
     "main.f53dda3d.css.map": "/fictionalPrivateTutors/static/css/main.f53dda3d.css.map",
-    "main.a67a6842.js.map": "/fictionalPrivateTutors/static/js/main.a67a6842.js.map",
+    "main.1342bca3.js.map": "/fictionalPrivateTutors/static/js/main.1342bca3.js.map",
     "453.6c6454fd.chunk.js.map": "/fictionalPrivateTutors/static/js/453.6c6454fd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f53dda3d.css",
-    "static/js/main.a67a6842.js"
+    "static/js/main.1342bca3.js"
   ]
 }
