@@ -1,8 +1,9 @@
 import Carousel from 'react-bootstrap/Carousel';
 import React, {useState} from "react";
 import {Image} from "react-bootstrap";
-
 import './HomePageCarousel.css'
+import Stationery from "../assets/stationery.jpg"
+import FakeInfo from "../assets/fake_info.jpg"
 
 export function HomePageCarousel(){
     const [index, setIndex] = useState(0);
@@ -16,7 +17,7 @@ export function HomePageCarousel(){
             <Carousel activeIndex={index} onSelect={handleSelect}>
                 <Carousel.Item>
                     <Image
-                        src="./stationery.jpg"
+                        src={Stationery}
                     />
                     <Carousel.Caption>
                         <h1>Study Hard</h1>
@@ -26,7 +27,7 @@ export function HomePageCarousel(){
 
                 <Carousel.Item>
                     <Image
-                        src="./fake_info.jpg"
+                        src={FakeInfo}
                     />
                     <Carousel.Caption>
                         <h1>Learn Ficticious Content</h1>

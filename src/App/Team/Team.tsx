@@ -1,5 +1,6 @@
 import React from "react";
 import {Image, Table} from "react-bootstrap";
+import FakePeople from "../assets/john_doe.jpg"
 
 export function Team(){
     return(
@@ -8,7 +9,7 @@ export function Team(){
                 <tr>
                     <td className="text-center">
                         <Image
-                            src="./john_doe.jpg"
+                            src={FakePeople}
                         />
                         <h3>Fictional Person 1</h3>
                     </td>
@@ -21,7 +22,7 @@ export function Team(){
                 <tr>
                     <td className="text-center">
                         <Image
-                            src="./john_doe.jpg"
+                            src={FakePeople}
                         />
                         <h3>Fictional Person 2</h3>
                     </td>
@@ -33,7 +34,7 @@ export function Team(){
                 <tr>
                     <td className="text-center">
                         <Image
-                            src="./john_doe.jpg"
+                            src={FakePeople}
                         />
                         <h3>Fictional Person 3</h3>
                     </td>
